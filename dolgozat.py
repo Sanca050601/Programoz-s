@@ -1,0 +1,6 @@
+szam1 = int(input('Egyik szám: '))
+szam2 = int(input('Másik szám: '))
+print('A két szám összege: ', szam1+szam2)
+print('A két szám különbsége: ', szam1-szam2)
+print('A két szám szorzata: ', szam1*szam2)
+print('A két szám hányadosa: ', szam1/szam2)
